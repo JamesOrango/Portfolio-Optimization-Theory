@@ -1,0 +1,5 @@
+- Past returns do not exactly results in future performance
+- volatility tends to perpetuate in both signs
+- stock's autocorrelation are often insignificant by eficient market hypothesis
+- guassian distributions usually dont usualy holds on stocks, more heavy tail distributions
+- the gain/loss distribution is not symmetric
